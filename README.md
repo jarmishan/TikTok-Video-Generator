@@ -1,6 +1,6 @@
 # TikTok Video Generator
 
-An automated content generation pipeline that creates short-form quiz videos using music data.
+An automated content generation pipeline that creates short form quiz videos using music data.
 
 ## Overview
 
